@@ -1,0 +1,14 @@
+# Core dependencies
+transformers>=4.40.0
+datasets>=2.18.0
+torch>=2.1.0
+accelerate>=0.27.0
+
+# Optional optimizers
+bitsandbytes>=0.43.0  # Enables 8-bit optimizer (if using AdamW8bit)
+
+# Progress bars, color output (used in create_url_analist.py)
+colorama>=0.4.6
+
+# Utilities
+tqdm>=4.66.0

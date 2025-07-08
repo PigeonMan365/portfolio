@@ -1,0 +1,14 @@
+{
+  "calculator": {
+    "description": "Performs arithmetic calculations. Input: math expression.",
+    "entrypoint": "calculator_agent.py"
+  },
+  "word_counter": {
+    "description": "Counts words in a sentence. Input: plain text.",
+    "entrypoint": "word_counter_agent.py"
+  },
+  "reverse_text": {
+    "description": "Reverses the input text. Input: plain text.",
+    "entrypoint": "reverse_text_agent.py"
+  }
+}
