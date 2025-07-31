@@ -17,6 +17,7 @@ This repository serves as the hub for the projects I’m most confident in — f
 -  **Certifications**:
   - Cisco Certified Network Associate (CCNA)
   - AWS Certified Cloud Practitioner
+  - CompTIA Secuirty+
   - TryHackMe: [@paul.the.cyber.wall](https://tryhackme.com/p/paul.the.cyber.wall)
 
 ---
