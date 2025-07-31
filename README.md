@@ -13,7 +13,7 @@ This repository serves as the hub for the projects I’m most confident in — f
 -  **Major**: Cybersecurity  
 -  **Minors**: GIS & Remote Sensing, Peace Studies  
 -  **University**: Radford University  
--  **Interests**: Offensive Security, AI for Cyber Defense, Ethical Hacking, Network Protocols  
+-  **Interests**: Offensive Security, AI for Cyber Defense, Ethical Hacking.  
 -  **Certifications**:
   - Cisco Certified Network Associate (CCNA)
   - AWS Certified Cloud Practitioner
@@ -29,6 +29,9 @@ Here are some selected projects you’ll find inside this portfolio:
 - **AI Trainer** *(AI/ai-trainer/)*  
   A modular, CLI-based training system for Hugging Face-compatible language models. Supports chunked training, checkpoint resume, and low-resource environments. Built for local model training and experimentation.
 
+- **Tool_usage**
+  A serise of expiremnts that is deisined around the idea of AI, LLM's in particular using tools for complex behaviour.
+
 - *(More projects will be added soon as I expand this portfolio.)*
 
 ---
@@ -40,7 +43,7 @@ I'm open to internships, research collaborations, and networking.
 -  **LinkedIn**: [Paul Tucker](https://www.linkedin.com/in/paul-tucker-09851a31b)
 -  **TryHackMe**: [@paul.the.cyber.wall](https://tryhackme.com/p/paul.the.cyber.wall)
 
-I’ll also be launching a GitHub Pages site later this summer — stay tuned.
+I’ll also be launching a GitHub Pages site later — stay tuned.
 
 ---
 
