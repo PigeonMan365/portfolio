@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio.
 
 I'm **Paul Tucker**, a Cybersecurity major at Radford University with minors in **GIS & Remote Sensing** and **Peace Studies**. I'm currently in my seventh semester and deeply interested in **offensive security**, as well as the **applications of AI in cybersecurity**. My goal is to blend technical expertise with a multidisciplinary approach to solve real-world security problems.
 
-This repository serves as the hub for the projects I’m most confident in — from penetration testing tools to AI-driven model training frameworks. It reflects my hands-on learning, certifications, and self-directed passion projects.
+This repository serves as the hub for the projects I’m most confident in. It reflects my hands-on learning, certifications, and self-directed passion projects.
 
 ---
 
@@ -48,3 +48,4 @@ I’ll also be launching a GitHub Pages site later — stay tuned.
 ---
 
 Thank you for visiting my portfolio.
+
